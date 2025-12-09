@@ -1,10 +1,12 @@
-# 🎵 Machine Listening Workshop
+# 🎵 Listening with machines, crafting transductions: technodiversity, creative tools, and critical perspectives in research-creation practices
 
-Welcome to the **Machine Listening Workshop**! In this session, we will explore Audio Processing and AI using Python.
+This is the repository for the practical/hands-on part of the workshop "Listening with machines, crafting transductions: technodiversity, creative tools, and critical perspectives in research-creation practices" held at Freie Universität Berlin in March 2025.
+
+In this session, we will explore Audio Processing and AI using Python.
 
 ## 🚀 How to Run
 
-You can run the workshop materials in two ways: **Google Colab** (recommended for beginners) or **Locally** (for advanced users).
+You can run the workshop materials in two ways: **Google Colab** (recommended for beginners) or **Locally** (for users familiar with Python and Jupyter notebooks).
 
 ### Option 1: Google Colab (Recommended)
 
