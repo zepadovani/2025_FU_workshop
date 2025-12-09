@@ -1,0 +1,26 @@
+[project]
+name = "machine-listening-workshop"
+version = "0.1.0"
+description = "Workshop de Machine Listening - Processamento de Áudio e IA"
+authors = ["Workshop FU <workshop@example.com>"]
+channels = ["conda-forge"]
+platforms = ["osx-arm64", "osx-64", "linux-64", "win-64"]
+
+[dependencies]
+python = "3.10.*"
+numpy = ">=1.24.0"
+pandas = ">=2.0.0"
+librosa = ">=0.10.0"
+soundfile = ">=0.12.0"
+scipy = ">=1.10.0"
+matplotlib = ">=3.7.0"
+
+[pypi-dependencies]
+gradio = ">=4.0.0"
+
+[tasks]
+export-reqs = "pixi project export-pypi-requirements > requirements.txt"
+
+[feature.dev.dependencies]
+jupyter = ">=1.0.0"
+ipykernel = ">=6.0.0"

@@ -1,0 +1,97 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Pixi
+.pixi/
+pixi.lock
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Audio/Video files (temporary or large)
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+*.wma
+*.aac
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+
+# Exclude example assets
+!assets/*.wav
+!assets/*.mp3
+!assets/README.md
+
+# Matplotlib/Plots
+*.png
+*.jpg
+*.jpeg
+*.pdf
+!docs/*.png
+!docs/*.jpg
+
+# Data files
+*.csv
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+tmp/
+temp/
+*.tmp
