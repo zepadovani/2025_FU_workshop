@@ -1,6 +1,6 @@
 # ☁️ Guide to Run on Google Colab
 
-Google Colab is a free cloud service that lets you run Python code in your browser without installing anything on your computer. It is the easiest way to participate in the workshop if you don't want to set up a local environment.
+Google Colab is a free cloud service that lets you run Python code in your browser without installing anything on your computer. It is the easiest way to participate in the workshop if you don't want to set up a local environment. You will need a Google account to use Colab (you can create one only for this purpose if you don't have it).
 
 ---
 
