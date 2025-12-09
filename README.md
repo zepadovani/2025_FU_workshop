@@ -17,6 +17,7 @@ No installation required. Choose a notebook below to start:
 | **01. Workshop Demo** | Introduction and environment test. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zepadovani/2025_FU_workshop/blob/main/notebooks/01_test_pixi_gradio_colab.ipynb) |
 | **02. Audio Descriptors** | Explore audio features (Centroid, MFCCs, etc.) interactively. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zepadovani/2025_FU_workshop/blob/main/notebooks/02_audio_descriptors_explorer.ipynb) |
 | **03. CQT Analyzer** | Upload and analyze audio using Constant-Q Transform. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zepadovani/2025_FU_workshop/blob/main/notebooks/03_cqt_analyzer.ipynb) |
+| **04. Audio Slicer** | Slice audio files based on silence/RMS threshold. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zepadovani/2025_FU_workshop/blob/main/notebooks/04_audio_slicer.ipynb) |
 
 1.  Click the badge for the notebook you want to run.
 2.  Sign in with your Google account if asked.
