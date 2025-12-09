@@ -12,7 +12,7 @@ Este repositório contém materiais e código para um workshop hands-on de proce
 
 ## 🚀 Como Rodar no Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPO/blob/main/notebooks/workshop_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zepadovani/2025_FU_workshop/blob/main/notebooks/workshop_demo.ipynb)
 
 1. Clique no badge acima para abrir o notebook no Colab
 2. Execute as células sequencialmente
@@ -31,8 +31,8 @@ Este repositório contém materiais e código para um workshop hands-on de proce
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU_USUARIO/SEU_REPO.git
-cd SEU_REPO
+git clone https://github.com/zepadovani/2025_FU_workshop.git
+cd 2025_FU_workshop
 
 # Instale as dependências com Pixi
 pixi install
