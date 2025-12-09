@@ -20,5 +20,6 @@ ipykernel = ">=6.0.0"
 
 [pypi-dependencies]
 gradio = ">=4.0.0"
+audiofile = ">=1.0.0"
 [tasks]
 export-reqs = "pip freeze > requirements.txt"

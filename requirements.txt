@@ -9,7 +9,10 @@ arrow @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_arro
 asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1763409923949/work
 async-lru @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_async-lru_1742153708/work
 attrs @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_attrs_1764875182/work
+audeer==2.3.1
+audiofile==1.5.1
 audioread @ file:///Users/runner/miniforge3/conda-bld/audioread_1759429650777/work
+audmath==1.4.4
 babel @ file:///home/conda/feedstock_root/build_artifacts/babel_1738490167835/work
 backports.zstd @ file:///Users/runner/miniforge3/conda-bld/bld/rattler-build_backports.zstd_1765057757/work
 beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1764520477956/work
