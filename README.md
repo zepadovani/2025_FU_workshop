@@ -60,6 +60,27 @@ pixi run jupyter lab
 pixi run jupyter notebook
 ```
 
+## 📦 Gerenciando Dependências
+
+Para adicionar novas bibliotecas ao projeto:
+
+1. **Adicione via Pixi** (Local):
+   ```bash
+   # Para pacotes Conda (preferencial - ex: scikit-learn)
+   pixi add scikit-learn
+
+   # Para pacotes PyPI (pip - ex: openai)
+   pixi add --pypi openai
+   ```
+
+2. **Atualize o requirements.txt** (Para Colab):
+   Sempre que adicionar um pacote, regenere o arquivo de requisitos para garantir que funcione no Colab:
+   ```bash
+   pixi run export-reqs
+   ```
+
+3. **Commit**: Envie as alterações do `pixi.toml`, `pixi.lock` e `requirements.txt` para o GitHub.
+
 ## 📁 Estrutura do Projeto
 
 ```
