@@ -10,11 +10,14 @@ You can run the workshop materials in two ways: **Google Colab** (recommended fo
 
 ### Option 1: Google Colab (Recommended)
 
-No installation required. Just click the badge below to open the main notebook:
+No installation required. Choose a notebook below to start:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zepadovani/2025_FU_workshop/blob/main/notebooks/workshop_demo.ipynb)
+| Notebook | Description | Link |
+| :--- | :--- | :--- |
+| **01. Workshop Demo** | Introduction and environment test. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zepadovani/2025_FU_workshop/blob/main/notebooks/01_test_pixi_gradio_colab.ipynb) |
+| **02. Audio Descriptors** | Explore audio features (Centroid, MFCCs, etc.) interactively. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zepadovani/2025_FU_workshop/blob/main/notebooks/02_audio_descriptors_explorer.ipynb) |
 
-1.  Click the badge above.
+1.  Click the badge for the notebook you want to run.
 2.  Sign in with your Google account if asked.
 3.  Run the first cell to set up the environment automatically.
 4.  Have fun!
