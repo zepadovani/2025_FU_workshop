@@ -1,3 +1,5 @@
+> ❗ **Slides of the first part of the workshop are available at:** [https://pdvn.cc/2025FUworkshop/](https://pdvn.cc/2025FUworkshop/)
+
 # 🎵 Listening with machines, crafting transductions: technodiversity, creative tools, and critical perspectives in research-creation practices
 
 This is the repository for the practical/hands-on part of the workshop "Listening with machines, crafting transductions: technodiversity, creative tools, and critical perspectives in research-creation practices" held at Freie Universität Berlin in March 2025.
